@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta <charset='UTF-8'>
+    <meta
+    <title>Welcome to Purrfect Vibes - Your Trusted Source for Feline Wellness and Community
+<head>
+<body>  
+h1>Welcome to Purrfect Vibes!</h1>
+<p>At Purrfect Vibes, we are dedicated to creating a haven for cat enthusiasts by delivering engaging, high-quality content and fostering a vibrant, supportive community</p>
+
+<h2 id="features">Our Features</h2>
+<p class="features">
+    <strong> Cat Care Essentials<sup>&trade;</sup></strong><br>
+    Explore a wealth of resources on feline care, behavior, and wellness to ensure your cat leads a happy, healthy life.
+</p>
+
+<p>
+    <strong>Purr-sonality Quizzes<sup>&trade;</sup></strong><br>
+    Have fun with quizzes like “What Cat Breed Matches Your Personality?” and discover your perfect feline counterpart.
+</p>  
+
+<p>
+   <strong>Interactive Community<sup>&trade;</sup></strong><br>
+   Participate in cat photo contests, share your stories, or ask experts in our “Ask the Vet” Q&A section.
+
+</p>
+
+<h2>Cat Owner Testimonials</h2>
+<blockquote><q> Purrfect Vibes has transformed the way I care for my cat. Their tips and resources have been a game-changer for me and my tabby, Luna!</q></blockquote>
+<blockquote
+<p> 
+    -Felicity Meowser<b>
+    Cat Mom Extraordinaire
+    </b>
+</p>
+
+<blockquote><q> The quizzes are so much fun, and I’ve learned so much from the blog posts. Purrfect Vibes is my daily dose of feline joy!
+- Whiskers Wilson
+Proud Owner of Mittens
+
+<blockquote><q>Thanks to Purrfect Vibes, I found the perfect toys for my kitten. She’s never been happier!</q></blockquote>
+
+- Paws Perkins
+First-Time Cat Owner
+
+
+    <section id="welcome-section">
+        <h1 id="welcome-header">Welcome to Purrfect Vibes!</h1>
+        <p>Your ultimate destination for keeping your feline friends happy, healthy, and purring with joy. Explore our curated tips, community-driven advice, and expert insights to make every day a "Purrfect Vibe."</p>
+    </section>
+
+    <section id="features-section">
+        <h2 id="features-header">Our Features</h2>
+        <p class="feature-item"><strong>Cat Care Essentials<sup>&trade;</sup></strong><br>Top-tier advice on nutrition, grooming, and health.</p>
+        <p class="feature-item"><strong>Purr-sonality Quizzes<sup>&trade;</sup></strong><br>Fun, interactive quizzes to understand your cat's mood.</p>
+        <p class="feature-item"><strong>Interactive Community<sup>&trade;</sup></strong><br>Connect with other cat lovers and share your stories.</p>
+    </section>
+
+    <section id="testimonials-section">
+        <h2 id="testimonials-header">Cat Owner Testimonials</h2>
+        <blockquote>
+            <q>Purrfect Vibes transformed how I interact with my rescue cat. Absolutely brilliant!</q>
+        </blockquote>
+        <p>— Sarah M.<br>Proud Cat Parent</p>
+
+        <blockquote>
+            <q>The community advice on diet was a lifesaver. My cat is much healthier now.</q>
+        </blockquote>
+        <p>— James L.<br>Cat Enthusiast</p>
+    </section>
+
+    <h2>Our Team</h2>
+    <section id="team-section">
+        <h2 id="team-header">Our Team</h2>
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Title</th>
+            </tr>
+            <tr>
+                <td>Agnes</td>
+                <td>Feline Nutrition Specialist</td>
+            <tr>
+            <tr>
+              <td>Damon</td>    
+              <td>Director of Feline Enrichment</td>  
+            </tr>
+            <tr>
+                <td>Herbert</td>
+                <td>Chief Wellness Officer</td>
+            </tr>
+            <tr>
+                <td>Mike</td>
+                <td>Vice President of Cat Content</td>
+            </tr>
+            <tr>
+                <td>Ferris</td> 
+                <td><abbr title="Founder and <abbr title="Chief Excitement Officer">CEO</abbr></td>
+            </tr>
+        </table>    
+                   
+  
+
+    <section id="contact-section">
+        <h2 id="contact-header">Contact Us</h2>
+        <address>
+            Purrfect Vibes Inc.<br>
+            123 Meow Lane<br>
+            Feline City, CA 90210<br>
+            info@purrfectvibes.com
+        </address>
+    </section>
+
+
+    <footer>
+        <hr>
+        <p><em>Copyright &copy;2026 Purrfect Vibes – All Rights Reserved</em></p>
+    </footer>
+
+</body>
+</html>
