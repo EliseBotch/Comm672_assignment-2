@@ -39,7 +39,7 @@
 - Whiskers Wilson
 Proud Owner of Mittens
 
-<blockquote><q>Thanks to Purrfect Vibes, I found the perfect toys for my kitten. She’s never been happier!</q></blockquote>
+<blockquote><p>Thanks to Purrfect Vibes, I found the perfect toys for my kitten. She’s never been happier!</p></blockquote>
 
 - Paws Perkins
 First-Time Cat Owner
